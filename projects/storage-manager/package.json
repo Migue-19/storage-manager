@@ -1,0 +1,34 @@
+{
+  "name": "@miguel190/storage-manager",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^22.2.0",
+    "@angular/core": "^22.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false,
+  "description": "Librería Angular para gestionar LocalStorage y Cache Storage con una API tipada y sencilla.",
+  "keywords": [
+    "angular",
+    "localstorage",
+    "cache-storage",
+    "storage",
+    "cache",
+    "typescript"
+  ],
+  "license": "MIT",
+  "author": "Miguel Angel Ruiz Urmendis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Migue-19/storage-manager.git"
+  },
+  "homepage": "https://github.com/Migue-19/storage-manager#readme",
+  "bugs": {
+    "url": "https://github.com/Migue-19/storage-manager/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
