@@ -1,0 +1,9 @@
+{
+  "name": "Storage Manager — Documentación técnica",
+  "tsconfig": "projects/storage-manager/tsconfig.lib.json",
+  "output": "documentation",
+  "language": "es-ES",
+  "disableCoverage": false,
+  "disablePrivate": true,
+  "hideGenerator": true
+}
